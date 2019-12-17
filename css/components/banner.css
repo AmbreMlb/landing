@@ -1,0 +1,29 @@
+.banner{
+background-image: url(../../images/site-banner-avion.png);
+color: white;
+padding: 1px 0px;
+background-size: cover;
+background-position: center;
+border-radius: 10px;
+
+}
+
+.banner h1{
+	 color: #84D9D4;
+    font-size: 40px;
+    border-style: solid;
+    box-shadow: 15px 10px 10px #84D9D4;
+    letter-spacing: 1px;
+    font-family: Courier, monospace;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.banner h2{
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
